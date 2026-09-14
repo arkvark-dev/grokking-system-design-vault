@@ -4,10 +4,8 @@
 .obsidian/workspaces.json
 .obsidian/graph.json
 .obsidian/cache/
-.obsidian/plugins/
 .trash/
 
 # OS
 .DS_Store
 Thumbs.db
-desktop.ini
